@@ -543,3 +543,4 @@ Note: count() works with find(...) but length works with distinct
 - [x] `db.customers.find({}, {_id:0, firstName: 1, lastName: 1})`
 - [ ] `db.customers.find({_id: 0, year: 1, maek: 1, model: 1})`
 - [ ] `db.customers.find({}).project({firstName: 1, lastName: 1})`
+#### Q77. 
